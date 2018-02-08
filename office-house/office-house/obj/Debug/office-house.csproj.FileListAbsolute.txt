@@ -1,0 +1,7 @@
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\bin\Debug\office-house.exe.config
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\bin\Debug\office-house.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\bin\Debug\office-house.pdb
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\obj\Debug\office-house.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\obj\Debug\office-house.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\obj\Debug\office-house.exe
+C:\Users\opilane\Documents\Visual Studio 2017\Projects\office-house\office-house\obj\Debug\office-house.pdb
